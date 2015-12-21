@@ -1,6 +1,6 @@
 Automatic server configuration
 ===============================
-script for configuring the yii2 on server
+script for configuring the ubuntu server install all the needed things and setup yii2
 
 Author
 -------------------
